@@ -5,7 +5,7 @@
         ":disableRateLimiting",
         ":dependencyDashboard",
         ":semanticCommits",
-        "github>chkpwd/renovate:automerge"
+        "github>CKonv/renovate:automerge"
     ],
     "dependencyDashboardTitle": "Renovate Dashboard 👨🏾‍💻",
     "suppressNotifications": [
